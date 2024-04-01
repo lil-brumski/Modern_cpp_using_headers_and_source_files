@@ -1,4 +1,3 @@
-//#include "/storage/emulated/0/Documents/Cxxdroid/flash/flash.h"
 #include "flash.h"
 #include <string>
 #include <limits>
