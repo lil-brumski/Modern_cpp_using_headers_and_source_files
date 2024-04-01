@@ -15,7 +15,7 @@ class Speed{
       Speed(std::string n, int a, std::string g, int v) : name(n), age(a), gender(g), velocity(v) {}
       
       void display(){
-          std::cout<<"Your name is "<<name<<".\nYou are "<<age<<" year old "<<gender<<".\nYou're the flash and your top speed is "<<velocity<<"m/s."<<std::endl;
+          std::cout<<"Your name is "<<name<<".\nYou are a "<<age<<" year old "<<gender<<".\nYou're the flash and your top speed is "<<velocity<<"m/s."<<std::endl;
       }
       
 };
